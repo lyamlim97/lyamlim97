@@ -5,7 +5,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyamlim97&langs_count=5)
 
 
-**Languages/Tech Stack**<br/><br/>
+## Languages/Tech Stack:
+<br/><br/>
 Python | Power BI | Pandas | SQL | Microsoft Excel
 
 
