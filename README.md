@@ -6,7 +6,7 @@
 Data Strategy | Data Analytics | Data Visualization | Machine Learning | Product Management
 
 ### Languages/Tech Stack:
-Python | Power BI | Pandas | SQL | Microsoft Excel
+Python | Microsoft Power BI | SQL | Pandas | Scikit-learn | Microsoft Excel
 
 ---
 
