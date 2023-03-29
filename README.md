@@ -12,9 +12,9 @@ Python | Microsoft Power BI | SQL | Pandas | Scikit-learn | Tensorflow | Microso
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyamlim97&theme=2077)
 
-![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lyamlim97&theme=2077)⠀⠀![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lyamlim97&theme=2077)
+![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lyamlim97&theme=2077)⠀![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lyamlim97&theme=2077)
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lyamlim97&theme=2077)⠀⠀![Commits by Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lyamlim97&theme=2077&utcOffset=8)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lyamlim97&theme=2077)⠀![Commits by Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lyamlim97&theme=2077&utcOffset=8)
 
 <!--
 old stats 
