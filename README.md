@@ -8,7 +8,7 @@ Data Strategy | Data Analytics | Data Engineering | Data Visualization | Machine
 
 ### Languages/Tech Stack:
 
-Python | Microsoft Power BI | SQL | DBeaver | Pandas | Scikit-learn | Tensorflow | PyTorch| Microsoft Excel | HTML | CSS | Flask | Vercel
+Python | Microsoft Power BI | SQL | DBeaver | Pandas | Scikit-learn | Tensorflow | PyTorch | Microsoft Excel | HTML | CSS | Flask | Vercel
 
 ---
 
