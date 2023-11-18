@@ -3,10 +3,12 @@
 ---
 
 ### Core Competencies:
-Data Strategy | Data Analytics | Data Visualization | Machine Learning | Product Management
+
+Data Strategy | Data Analytics | Data Engineering | Data Visualization | Machine Learning
 
 ### Languages/Tech Stack:
-Python | Microsoft Power BI | SQL | Pandas | Scikit-learn | Tensorflow | Microsoft Excel | HTML | CSS | Flask | Vercel
+
+Python | Microsoft Power BI | SQL | DBeaver | Pandas | Scikit-learn | Tensorflow | PyTorch| Microsoft Excel | HTML | CSS | Flask | Vercel
 
 ---
 
@@ -17,12 +19,11 @@ Python | Microsoft Power BI | SQL | Pandas | Scikit-learn | Tensorflow | Microso
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lyamlim97&theme=2077)⠀![Commits by Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lyamlim97&theme=2077&utcOffset=8)
 
 <!--
-old stats 
+old stats
 [![Lyam's github stats](https://github-readme-stats.vercel.app/api?username=lyamlim97&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyamlim97&langs_count=10)
 -->
-
 
 <!--
 **lyamlim97/lyamlim97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
