@@ -1,4 +1,4 @@
-### Hey there! I'm [**Lyam**](https://www.linkedin.com/in/lyamlim) and welcome to my GitHub profile 👋🏻
+### Hey there! I'm [**Lyam**](https://www.linkedin.com/in/ll97/) and welcome to my GitHub profile 👋🏻
 
 ---
 
